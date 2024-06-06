@@ -1,0 +1,8 @@
+# Introduction
+This project is a write up and log in my personal progress of reverse engineering and learning about how anti-cheats work. The reason for doing this is purely out of interest of how anti-cheats work. Cheats are fascinating topics in my opinion. The people making them are usually out to turn a profit, same as malware developers. They both commonly use expoits and vulnerability of the compter to try and acheive their goals. They both work in similar ways, but in many ways one is more harmless than the other. This is not to say that cheating is right, it still ruins the competetive integrity of games and is morally wrong. What interests me though is how companies have developed software methods to try and combat this constant cat-and-mouse chase that happens between the anti-cheat developers and the cheat developers. 
+
+Now comes the disclaimer that I am doing this purely for research purposes. Please use the information shown here responsibly, and don't do anything that might violate any laws or regulations.
+
+Now, let's discuss what I intend to learn, and how I intend to do it. This writeup is not an official write up of any sort. It is just a place where I document my journey as I go through this monumental task (at least it feels this way). 
+
+I will start by researching and going over the common methods and tools that anti-cheats use, as well as any underlying basic information that I might be missing (such as things related to Windows internals). Then I have chosen EAC as my target anti-cheat to research, but depending on how long it takes, I migh get into more of them. I have chosen EAC as it is one of the biggest in the market, and will probably have some of the most standard methods of repelling and detecting cheaters.
